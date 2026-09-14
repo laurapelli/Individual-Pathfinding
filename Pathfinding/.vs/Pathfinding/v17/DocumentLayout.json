@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Pathfinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51620EE3-3DEA-7333-6E7A-6011D65ABAFB}|Assembly-CSharp.csproj|D:\\Unity\\Pathfinding\\assets\\scripts\\planning\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51620EE3-3DEA-7333-6E7A-6011D65ABAFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planning\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51620EE3-3DEA-7333-6E7A-6011D65ABAFB}|Assembly-CSharp.csproj|d:\\unity\\pathfinding\\assets\\scripts\\pathfinding\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51620EE3-3DEA-7333-6E7A-6011D65ABAFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51620EE3-3DEA-7333-6E7A-6011D65ABAFB}|Assembly-CSharp.csproj|D:\\Unity\\Pathfinding\\assets\\scripts\\planning\\planning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51620EE3-3DEA-7333-6E7A-6011D65ABAFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planning\\planning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51620EE3-3DEA-7333-6E7A-6011D65ABAFB}|Assembly-CSharp.csproj|D:\\Unity\\Pathfinding\\assets\\scripts\\planning\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51620EE3-3DEA-7333-6E7A-6011D65ABAFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planning\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51620EE3-3DEA-7333-6E7A-6011D65ABAFB}|Assembly-CSharp.csproj|D:\\Unity\\Pathfinding\\assets\\scripts\\pathfinding\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51620EE3-3DEA-7333-6E7A-6011D65ABAFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51620EE3-3DEA-7333-6E7A-6011D65ABAFB}|Assembly-CSharp.csproj|D:\\Unity\\Pathfinding\\assets\\scripts\\pathfinding\\nodepathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51620EE3-3DEA-7333-6E7A-6011D65ABAFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding\\nodepathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51620EE3-3DEA-7333-6E7A-6011D65ABAFB}|Assembly-CSharp.csproj|D:\\Unity\\Pathfinding\\assets\\scripts\\planning\\nodeplanning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51620EE3-3DEA-7333-6E7A-6011D65ABAFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planning\\nodeplanning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Planning.cs",
+              "DocumentMoniker": "D:\\Unity\\Pathfinding\\Assets\\Scripts\\Planning\\Planning.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Planning\\Planning.cs",
+              "ToolTip": "D:\\Unity\\Pathfinding\\Assets\\Scripts\\Planning\\Planning.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Planning\\Planning.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:18:31.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Action.cs",
+              "DocumentMoniker": "D:\\Unity\\Pathfinding\\Assets\\Scripts\\Planning\\Action.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Planning\\Action.cs",
+              "ToolTip": "D:\\Unity\\Pathfinding\\Assets\\Scripts\\Planning\\Action.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Planning\\Action.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:19:02.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "World.cs",
+              "DocumentMoniker": "D:\\Unity\\Pathfinding\\Assets\\Scripts\\Planning\\World.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Planning\\World.cs",
+              "ToolTip": "D:\\Unity\\Pathfinding\\Assets\\Scripts\\Planning\\World.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Planning\\World.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:18:37.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pathfinding.cs",
+              "DocumentMoniker": "D:\\Unity\\Pathfinding\\Assets\\Scripts\\Pathfinding\\Pathfinding.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pathfinding\\Pathfinding.cs",
+              "ToolTip": "D:\\Unity\\Pathfinding\\Assets\\Scripts\\Pathfinding\\Pathfinding.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pathfinding\\Pathfinding.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAwwIkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:17:47.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NodePathfinding.cs",
+              "DocumentMoniker": "D:\\Unity\\Pathfinding\\Assets\\Scripts\\Pathfinding\\NodePathfinding.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pathfinding\\NodePathfinding.cs",
+              "ToolTip": "D:\\Unity\\Pathfinding\\Assets\\Scripts\\Pathfinding\\NodePathfinding.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pathfinding\\NodePathfinding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:17:45.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "D:\\Unity\\Pathfinding\\Assets\\Scripts\\Pathfinding\\Grid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pathfinding\\Grid.cs",
+              "ToolTip": "D:\\Unity\\Pathfinding\\Assets\\Scripts\\Pathfinding\\Grid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pathfinding\\Grid.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:17:36.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NodePlanning.cs",
+              "DocumentMoniker": "D:\\Unity\\Pathfinding\\Assets\\Scripts\\Planning\\NodePlanning.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Planning\\NodePlanning.cs",
+              "ToolTip": "D:\\Unity\\Pathfinding\\Assets\\Scripts\\Planning\\NodePlanning.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Planning\\NodePlanning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:18:28.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
